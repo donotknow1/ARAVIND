@@ -1,0 +1,16 @@
+2019-02-16 17:06:42,326 ERROR [root] - data is not stored:: ORA-00942: table or view does not exist
+
+2019-02-16 17:07:33,150 ERROR [root] - data is not stored:: ORA-00942: table or view does not exist
+
+2019-02-16 17:08:31,907 ERROR [root] - data is not stored:: ORA-00942: table or view does not exist
+
+2019-02-16 17:13:51,279 INFO [root] - 1 data is inserted
+2019-02-16 18:06:49,503 INFO [root] - 0 data is inserted
+2019-02-16 18:09:04,890 INFO [root] - 0 data is inserted
+2019-02-16 18:13:38,979 INFO [root] - 0 data is inserted
+2019-02-16 18:21:53,756 INFO [root] - 0 data is inserted
+2019-02-16 18:27:36,414 INFO [root] - 0 data is inserted
+2019-02-16 18:34:54,637 INFO [root] - 0 data is inserted
+2019-02-16 18:44:34,017 INFO [root] - 0 data is inserted
+2019-02-16 18:48:16,450 INFO [root] - 0 data is inserted
+2019-02-16 18:48:27,393 ERROR [root] - data is not stored:: Missing IN or OUT parameter at index:: 1
